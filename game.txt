@@ -1,0 +1,10 @@
+#### GAME CREATED ####
+Title: game1
+Genre: rpg
+Rating: M
+Price: $49.94
+#### GAME CREATED ####
+Title: game2
+Genre: shooter
+Rating: T
+Price: $62.23
