@@ -37,9 +37,6 @@ public class GameViewController implements Initializable {
     @FXML private Slider priceSlider;
     @FXML private Label priceSliderLabel;
 
-    //create game button
-    @FXML private Button createGameButton;
-
     /**
      * Initializes the controller class.
      */
